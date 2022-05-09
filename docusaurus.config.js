@@ -9,7 +9,7 @@ const config = {
   title: 'Taoyukai wiki',
   tagline: '有目标，沉住气，悄悄干',
   url: 'https://taoyukai.github.io',
-  baseUrl: '/tyk_docs/',
+  baseUrl: '/tyk_wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
