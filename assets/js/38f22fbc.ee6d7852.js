@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktyk_wiki=self.webpackChunktyk_wiki||[]).push([[353],{6932:function(s){s.exports=JSON.parse('{"label":"docusaurus","permalink":"/tyk_wiki/blog/tags/docusaurus","allTagsPath":"/tyk_wiki/blog/tags","count":4}')}}]);

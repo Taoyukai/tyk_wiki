@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktyk_wiki=self.webpackChunktyk_wiki||[]).push([[973],{6620:function(t){t.exports=JSON.parse('{"permalink":"/tyk_docs/en/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
