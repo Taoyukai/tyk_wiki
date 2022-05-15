@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktyk_wiki=self.webpackChunktyk_wiki||[]).push([[401],{6205:function(t){t.exports=JSON.parse('{"permalink":"/tyk_wiki/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

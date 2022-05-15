@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktyk_wiki=self.webpackChunktyk_wiki||[]).push([[47],{7319:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/tyk_wiki/en/blog/tags/hello","allTagsPath":"/tyk_wiki/en/blog/tags","count":2}')}}]);
