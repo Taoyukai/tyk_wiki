@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Taoyukai wiki',
   tagline: '有目标，沉住气，悄悄干',
-  url: 'https://taoyukai.github.io',
-  baseUrl: '/tyk_wiki/',
+  url: 'https://taoyukai.github.io/tyk_wiki',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -69,7 +69,7 @@ const config = {
         title: 'TYK',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/tyk.jpg',
+          src: 'img/tyk.png',
         },
         items: [
           {
@@ -98,7 +98,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'tool/tool',
+            docId: 'tool/tools',
             position: 'left',
             label: 'TOOL',
           },
