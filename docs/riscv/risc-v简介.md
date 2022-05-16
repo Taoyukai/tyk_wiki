@@ -3,7 +3,7 @@ sidebar_position: 1
 description: RISC-V 简介
 ---
 
-# RISC-V简介
+# risc-v简介
 
 ## 1. 指令集架构ISA
 
