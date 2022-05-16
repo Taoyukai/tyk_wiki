@@ -3,9 +3,9 @@ sidebar_position: 1
 description: 介绍Docusaurus静态网站生成器，利用Github Pages搭建个人wiki。
 ---
 
-# Docusaurus搭建个人wiki
+# docusaurus搭建个人wiki
 
-## 1. Docusaurus简介
+## 1. docusaudrus简介
 
 Docusaurus是 Facebook 开源的一个静态网站生成器，主要用来给开源项目生成帮助文档或博客，其功能和Hexo或Jekyll功能类似，可以根据Markdown文件生成静态页面，然后部署到Github Pages之类的纯静态环境。
 
@@ -146,3 +146,41 @@ jobs:
 
 ![github_pages_actions](img\github_pages_actions.png)
 
+## 5. 部署到Vercel
+
+Vercel，一个开箱即用的网站托管服务，类似于Github Pages，但比Github Pages强大，速度也快得多。
+
+- [Vercel官网](https://vercel.com)
+
+### 5.1 注册并登录Vercel
+
+推荐使用Github账号一键登录。
+
+
+
+![vercel_login_page](img\vercel_login_page.png)
+
+### 5.2 导入github上的网站项目
+
+- 在vercel的Overview菜单下，点击按钮 New Project
+- 在Import Git Repository选项下，选择需要导入的项目，点击Import
+
+![vercel_import](img\vercel_import.png)
+
+### 5.3 部署项目
+
+- 点击Deploy按钮，vercel就开始构建和部署了
+
+    ![vercel_deploy](img\vercel_deploy.png)
+
+构建完之后，可以在Overview菜单下，看到新建的项目,至此项目已经创建完成，可以通过vercel自动配置的子域名访问了。
+
+![vercel_deploy_ok](img\vercel_deploy_ok.png)
+
+### 5.4 添加自己的域名
+
+vercel支持使用自己注册的域名访问。
+
+在Settings->Domains页面下，输入框中填入想设置的域名，点击Add按钮，并设置相应的解析即可。
+
+![vercel_add_domains](img\vercel_add_domains.png)

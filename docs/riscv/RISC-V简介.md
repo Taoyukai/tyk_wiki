@@ -3,7 +3,7 @@ sidebar_position: 1
 description: RISC-V 简介
 ---
 
-# RISC-V 简介
+# RISC-V简介
 
 ## 1. 指令集架构ISA
 
@@ -85,7 +85,7 @@ ISA规定了机器级程序的格式和行为，即ISA具有软件看得见（�
 
 **RISC**由美国加州大学伯克利分校教授David Patterson发明。
 
-**RISC-V**（读作”risk-five“），表示第五代精简指令集，起源于2010年伯克利大学并行计算实验室(Par Lab) 的1位教授和2个研究生的一个项目（该项目也由David Patterson指导），希望选择一款指令集用于科研和教学，该项目在x86、ARM等指令集架构中徘徊，最终决定自己设计一个全新的指令集，RISC-V由此诞生。RISC-V的最初目标是实用、开源、可在学术上使用，并且在任何硬件或软件设计中部署时无需版税。
+**RISC-V**（读作”risk-five“），表示第五代精简指令集，起源于2010年伯克利大学并行计算实验室(Par Lab) 的Krste Asanovic教授、Andrew Waterman和Yunsup Lee研究生的一个项目（该项目也由David Patterson指导），希望选择一款指令集用于科研和教学，该项目在x86、ARM等指令集架构中徘徊，最终决定自己设计一个全新的指令集，RISC-V由此诞生。RISC-V的最初目标是实用、开源、可在学术上使用，并且在任何硬件或软件设计中部署时无需版税。
 
 ![riscv_2](img\riscv_2.png)
 
@@ -100,7 +100,10 @@ ISA规定了机器级程序的格式和行为，即ISA具有软件看得见（�
 通过十多年的发展，RISC-V这一星星之火已有燎原之势。倪光南院士表示，未来RISC-V很可能发展成为世界主流CPU之一，从而在CPU领域形成Intel (x86)、RAM、RISC-V三分天下的格局。
 
 :::note 友情链接
+
 - [**RISC-V官网**](https://riscv.org/)
+
 - [**RISC-V 官方指令集规范下载**](https://riscv.org/technical/specifications/ )
+
 :::
 

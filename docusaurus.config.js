@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Taoyukai wiki',
   tagline: '有目标，沉住气，悄悄干',
-  url: 'https://taoyukai.github.io/tyk_wiki',
+  url: 'https://www.taoyukai.com',//'https://taoyukai.github.io/tyk_wiki',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -74,7 +74,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'riscv/RISC-V简介',
+            docId: 'riscv/risc-v简介',
             position: 'left',
             label: 'RISC-V',
           },
