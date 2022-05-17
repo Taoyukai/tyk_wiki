@@ -6,20 +6,24 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
+import logo from '@site/static/img/tyk.jpg'
+// import { css } from '@emotion/css'
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
+      <img src={logo} style={{width: 280, borderRadius: '50%'}} /> 
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        {/* <div className={styles.buttons}>
+        <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            to="/docs/riscv/risc-v简介">
+            enter tyk wiki
           </Link>
-        </div> */}
+        </div>
       </div>
     </header>
   );

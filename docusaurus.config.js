@@ -12,12 +12,12 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/tyk.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Taoyukai', // Usually your GitHub org/user name.
+  projectName: 'tyk_wiki', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -86,15 +86,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'ble/ble',
+            docId: 'mcu_peripheral/mcu_peripheral',
             position: 'left',
-            label: 'BLE',
-          },
-          {
-            type: 'doc',
-            docId: 'usb/usb',
-            position: 'left',
-            label: 'USB',
+            label: 'MCU_Peripheral',
           },
           {
             type: 'doc',

@@ -1,3 +1,0 @@
-# MCU
-
-english
