@@ -1,0 +1,1 @@
+(self.webpackChunktyk_wiki=self.webpackChunktyk_wiki||[]).push([[5525],{5525:function(){}}]);
